@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Haneil Rolemberg</h1>
 <h3 align="center">An Ethical Hacker from Brazil</h3>
+<h3 align="🧠 Interests">
+<h3 align=" Computer Vision (Visão Computacional): I enjoy developing and experimenting with algorithms that enable machines to interpret and make decisions based on visual data.">
+<h3 align="Machine Learning (ML): From predictive analytics to neural networks, I am fascinated by the power of ML to transform data into actionable insights.">
+<h3 align="Cybersecurity (Cyber): Protecting data and systems from cyber threats is crucial. I focus on learning and implementing security measures to safeguard information.">
+<h3 align="Data Science: I love diving deep into data, uncovering patterns, and deriving meaningful conclusions to drive decision-making.">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanielrolemberg&label=Profile%20views&color=0e75b6&style=flat" alt="hanielrolemberg" /> </p>
 
