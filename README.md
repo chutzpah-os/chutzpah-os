@@ -2,14 +2,18 @@
 <h3 align="center">An Ethical Hacker from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanielrolemberg&label=Profile%20views&color=0e75b6&style=flat" alt="hanielrolemberg" /> </p>
-🧠 Interests
-Computer Vision (Visão Computacional): I enjoy developing and experimenting with algorithms that enable machines to interpret and make decisions based on visual data.
-Machine Learning (ML): From predictive analytics to neural networks, I am fascinated by the power of ML to transform data into actionable insights.
-Cybersecurity (Cyber): Protecting data and systems from cyber threats is crucial. I focus on learning and implementing security measures to safeguard information.
-Data Science: I love diving deep into data, uncovering patterns, and deriving meaningful conclusions to drive decision-making.
+<br>🧠 Interests<br>
 
+<br>Computer Vision (Visão Computacional): I enjoy developing and experimenting with algorithms that enable machines to interpret and make decisions based on visual data.<br>
 
-- 📫 How to reach me **victorhanielbusiness@gmail.com**
+Machine Learning (ML): From predictive analytics to neural networks, I am fascinated by the power of ML to transform data into actionable insights.<br>
+
+Cybersecurity (Cyber): Protecting data and systems from cyber threats is crucial. I focus on learning and implementing security measures to safeguard information.<br>
+
+Data Science: I love diving deep into data, uncovering patterns, and deriving meaningful conclusions to drive decision-making.<br>
+
+<br>
+📫 How to reach me **victorhanielbusiness@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
