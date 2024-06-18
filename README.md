@@ -4,13 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanielrolemberg&label=Profile%20views&color=0e75b6&style=flat" alt="hanielrolemberg" /> </p>
 <br>🧠 Interests<br>
 
-<br>Computer Vision (Visão Computacional): I enjoy developing and experimenting with algorithms that enable machines to interpret and make decisions based on visual data.<br>
+<br>The CADIA Specialist is a professional at the forefront of technology, combining expertise in Cybersecurity, Artificial Intelligence, Software Development, and Architecture. This multidisciplinary role is essential in today's rapidly evolving digital landscape, where integration of advanced technologies and secure, efficient design are paramount.
 
-Machine Learning (ML): From predictive analytics to neural networks, I am fascinated by the power of ML to transform data into actionable insights.<br>
-
-Cybersecurity (Cyber): Protecting data and systems from cyber threats is crucial. I focus on learning and implementing security measures to safeguard information.<br>
-
-Data Science: I love diving deep into data, uncovering patterns, and deriving meaningful conclusions to drive decision-making.<br>
+<br>
 
 <br>
 📫 How to reach me **victorhanielbusiness@gmail.com**
