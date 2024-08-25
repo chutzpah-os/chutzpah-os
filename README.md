@@ -2,17 +2,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Haneil Rolemberg</h1>
-<h3 align="center">CyberSecurity Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanielrolemberg&label=Profile%20views&color=0e75b6&style=flat" alt="hanielrolemberg" /> </p>
-<br>🧠 Interests<br>
+
+<br>🧠 About Me<br>
 
 <br>I am a cybersecurity engineer with over 4 years of experience, dedicated to protecting and optimizing systems and data in digital environments. My professional journey began early, at 7, when I started working in sales. Over a decade, I developed exceptional direct sales, door-to-door, B2B, and B2C skills, reaching approximately 1 million in sales. Now, at 25, I focus on leveraging this diverse background to highlight and promote the technology field, bringing a unique perspective combining cybersecurity and business.
 
-<br>
 
 <br>
-📫 How to reach me **victorhanielbusiness@gmail.com**
+
+<br>📫 How to reach me <br>
+Email: **victorhanielbusiness@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
