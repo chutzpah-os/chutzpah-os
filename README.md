@@ -7,8 +7,7 @@
 
 <br>🧠 About Me<br>
 
-<br>I am a cybersecurity engineer with over 4 years of experience, dedicated to protecting and optimizing systems and data in digital environments. My professional journey began early, at 7, when I started working in sales. Over a decade, I developed exceptional direct sales, door-to-door, B2B, and B2C skills, reaching approximately 1 million in sales. Now, at 25, I focus on leveraging this diverse background to highlight and promote the technology field, bringing a unique perspective combining cybersecurity and business.
-
+<br>I am a cybersecurity engineer with over 3 years of experience in cyber, dedicated to protecting and optimizing systems and data in digital environments. My professional journey began at 7 when I started working in sales. Over a decade, I developed exceptional direct sales, door-to-door, B2B, and B2C skills, reaching approximately 1 million in sales. Now, at 25, I focus on leveraging this diverse background to highlight and promote the technology field, bringing a unique perspective combining cybersecurity, AI, Software Development, and business.
 
 <br>
 
