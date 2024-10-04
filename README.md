@@ -12,9 +12,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" alt="Python logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="60" alt="AWS logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60" alt="Docker logo"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="60" alt="Flask logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="60" alt="Firebase logo"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="60" alt="Django logo"/>
+    
 </div>
 
 ---
