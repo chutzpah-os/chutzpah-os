@@ -1,6 +1,6 @@
 <h1 align="center">💀 Haniel Rolemberg</h1>
 <p align="center">
-    <i>Cybersecurity Engineer | AI Enthusiast | </i>
+    <i>Cybersecurity Engineer | AI Enthusiast | Software Developer </i>
 </p>
 
 <div align="center">
