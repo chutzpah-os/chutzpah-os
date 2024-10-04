@@ -4,11 +4,10 @@
 
 <p align="center">I am a cybersecurity engineer with over 3 years of experience in cyber, dedicated to protecting and optimizing systems and data in digital environments. My professional journey began at 7 when I started working in sales. Over a decade, I developed exceptional direct sales, door-to-door, B2B, and B2C skills, reaching approximately 1 million in sales. Now, at 25, I focus on leveraging this diverse background to highlight and promote the technology field, bringing a unique perspective combining cybersecurity, AI, Software Development, and business.</p>
 
-###
+
 
 <h2 align="center"></h2>
 
-###
 
 <h2 align="center">About me</h2>
 
@@ -16,7 +15,7 @@
 
 <p align="center">✨ Solving Problems since 2016 <br>🎲 Hobbies: Endurance and MMA<br>📚 I'm currently learning AI<br>🎯 CyberSecurity</p>
 
-###
+
 
 <h2 align="center"></h2>
 
@@ -66,11 +65,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanielrolemberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=hanielrolemberg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+
+<h2 align="center">Languages in use</h2>
+
+###
+  
+</div>
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hanielrolemberg)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ###
