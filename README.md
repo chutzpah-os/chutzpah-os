@@ -52,4 +52,4 @@ I am a cybersecurity engineer with over 3 years of experience protecting and opt
 ✨ Solving Problems since 2016  
 🎲 Hobbies: Endurance and MMA  
 📚 Currently Learning: AI  
-🎯 Focus: Cybersecurity
+🎯 Focus: AI-Driven Cybersecurity
