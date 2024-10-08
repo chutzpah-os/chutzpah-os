@@ -20,9 +20,12 @@
 ---
 
 ### About Me
-I’m a Software Engineer specializing in building and developing software solutions, with a strong obsession with security. With over 2 years of active experience in Development and 2 in cyber, I focus on integrating technology to solve real-world challenges, because I know that #weareallproblemsolvers. My passion for the banking, fintech, and payment sectors comes from personal experience — both my father and I faced significant issues with high levels of customer defaults, which severely impacted our lives. This drove me to explore and create smarter, more secure financial solutions that can help prevent such problems in the future. I enjoy working with data and continuously seek to enhance my skills in this area. As a community-driven developer, I actively contribute to the tech scene as an organizer of GDG Aju, sharing knowledge and collaborating on open-source projects. My ultimate goal is to develop secure, innovative technologies that address the evolving challenges of the financial industry.
 
-But it's just half of the story. If you'd like to know more about it or talk to me, I recommend sending me a message at victorhanielbusiness@gmail.com or on LinkedIn.
+I’m a Software Engineer specializing in building and developing software solutions, with a strong obsession with security. With over 2 years of active experience in Development and 2 in cyber,  my work focuses on solving real-world problems through technology.  My passion for the banking, fintech, and payment sectors comes from personal experience — both my father and I faced significant issues with high levels of customer defaults, which severely impacted our lives. This drove me to explore and create smarter, more secure financial solutions that can help prevent such problems in the future. I enjoy working with data and continuously seek to enhance my skills in this area. As a community-driven developer, I actively contribute to the tech scene as an organizer of GDG Aju, sharing knowledge and collaborating on open-source projects. 
+
+My ultimate goal is to develop secure, innovative technologies that address the evolving challenges of the financial industry.
+
+If you'd like to know more about it or talk to me, I recommend sending me a message at victorhanielbusiness@gmail.com or on LinkedIn.
 
 Go ahead. Let's make this connection more useful.
 
