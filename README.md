@@ -6,11 +6,12 @@
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="60" alt="C logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="60" alt="C# logo"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="60" alt="Go logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="60" alt="Java logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60" alt="TypeScript logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" alt="Python logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="60" alt="AWS logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="60" alt="GCP logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60" alt="Docker logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="60" alt="Bash logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="60" alt="Firebase logo"/>
@@ -31,11 +32,9 @@ Go ahead. Let's make this connection more useful.
 ---
 
 ### Skills & Technologies
-- **Programming Languages**: Python, JavaScript, C#, C, Go
-- **Development**: Flask, Django, Firebase, React, Node
-- **Deployment**: Heroku, Vercel
-- **Testing API**: Postman
-- **Cloud Services**: AWS, Docker
+- **Programming Languages**: Python, JavaScript, C#, C, Java
+- **Development**: Flask, Firebase, React, Node, DotNet, Spring
+- **Cloud Services**: AWS, GCP
 - **AI & Data Science**: TensorFlow
 
 ---
@@ -56,7 +55,7 @@ Go ahead. Let's make this connection more useful.
 ---
 
 ### Hobbies
-✨ Solving Problems since 2016  
-🎲 Hobbies: Endurance and MMA  
+✨ Solving and creating Problems since 2016  
+🎲 Hobbies: Endurance, Nautical Culture, Jazz, Blues, Rock, Languages  
 📚 Currently Learning: AI  
 🎯 Focus: AI-Driven Cybersecurity
