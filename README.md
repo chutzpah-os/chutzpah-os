@@ -25,7 +25,7 @@ I’m a Software Engineer specializing in developing secure software solutions. 
 
 I thrive on working with data and constantly seek opportunities to enhance my cybersecurity and software engineering skills. As a community-focused developer, I actively contribute to the tech ecosystem as an organizer of GDG Aju, sharing knowledge and engaging in open-source projects.
 
-If you'd like to know more about it or talk to me, I recommend sending me a message at victorhanielbusiness@gmail.com or LinkedIn.
+If you'd like to know more about it or talk to me, I recommend sending a message to hrolemberg.tech.engineer@gmail.com or LinkedIn.
 
 Go ahead. Let's make this connection more useful.
 
