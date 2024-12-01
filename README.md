@@ -47,7 +47,7 @@ Go ahead. Let's make this connection more useful.
 ---
 
 ### How to Reach Me
-- 📫 Email: [victorhanielbusiness@gmail.com](mailto:victorhanielbusiness@gmail.com)
+- 📫 Email: [hrolemberg.tech.engineer@gmail.com](mailto:hrolemberg.tech.engineer@gmail.com)
 - 💼 LinkedIn: [Haniel Rolemberg](https://www.linkedin.com/in/hanielrolemberg/)
 - 📺 YouTube: [Haniel Rolemberg](https://www.youtube.com/@hanielrolemberg)
 - 📷 Instagram: [@hanielrolemberg](https://www.instagram.com/hanielrolemberg/)
