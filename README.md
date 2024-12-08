@@ -5,8 +5,6 @@
 
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="60" alt="C logo"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="60" alt="C# logo"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="60" alt="Java logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60" alt="TypeScript logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" alt="Python logo"/>
@@ -32,7 +30,7 @@ Go ahead. Let's make this connection more useful.
 ---
 
 ### Skills & Technologies
-- **Programming Languages**: Python, JavaScript, C#, C, Java
+- **Programming Languages**: Python, JavaScript, C
 - **Development**: Flask, Firebase, React, Node, DotNet, Spring
 - **Cloud Services**: AWS, GCP
 - **AI & Data Science**: TensorFlow
