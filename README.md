@@ -31,7 +31,7 @@ Go ahead. Let's make this connection more useful.
 
 ### Skills & Technologies
 - **Programming Languages**: Python, JavaScript, C
-- **Development**: Flask, Firebase, React, Node, DotNet, Spring
+- **Development**: Flask, Firebase, React, Node
 - **Cloud Services**: AWS, GCP
 - **AI & Data Science**: TensorFlow
 
