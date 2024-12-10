@@ -49,8 +49,10 @@ Go ahead. Let's make this connection more useful.
 - 💼 LinkedIn: [Haniel Rolemberg](https://www.linkedin.com/in/hanielrolemberg/)
 - 📺 YouTube: [Haniel Rolemberg](https://www.youtube.com/@hanielrolemberg)
 - 📷 Instagram: [@hanielrolemberg](https://www.instagram.com/hanielrolemberg/)
-- https://hanielrolemberg.mobirisesite.com/
-
+- 🌐 Website: https://hanielrolemberg.mobirisesite.com/
+- ♪ TikTok: https://www.tiktok.com/@hanielrolemberg 
+- 𝕏 Twitter/x: https://twitter.com/HanielRolemberg
+  
 ---
 
 ### Hobbies
