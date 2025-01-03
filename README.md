@@ -47,11 +47,6 @@ Go ahead. Let's make this connection more useful.
 ### How to Reach Me
 - 📫 Email: [hrolemberg.tech.engineer@gmail.com](mailto:hrolemberg.tech.engineer@gmail.com)
 - 💼 LinkedIn: [Haniel Rolemberg](https://www.linkedin.com/in/hanielrolemberg/)
-- 📺 YouTube: [Haniel Rolemberg](https://www.youtube.com/@hanielrolemberg)
-- 📷 Instagram: [@hanielrolemberg](https://www.instagram.com/hanielrolemberg/)
-- 🌐 Website: https://hanielrolemberg.mobirisesite.com/
-- ♪ TikTok: https://www.tiktok.com/@hanielrolemberg 
-- 𝕏 Twitter/x: https://twitter.com/HanielRolemberg
   
 ---
 
