@@ -1,4 +1,4 @@
-<h1 align="center">💀 U can call me Chutzpah 💀 </h1>
+<h1 align="center">💀 AI-Driven Cybersecurity 💀 </h1>
 <p align="center">
     <i>Software Engineer | Cybersecurity | AI Enthusiast </i>
 </p>
@@ -19,7 +19,7 @@
 
 ### About Me
 
-I’m a Software Engineer specializing in developing secure software solutions. With over 2 years of hands-on experience in software development and 2 years in cybersecurity, I focus on addressing real-world challenges through innovative technology.
+You can call me Chutzpah. I’m a Software Engineer specializing in developing secure software solutions. With over 2 years of hands-on experience in software development and 2 years in cybersecurity, I focus on addressing real-world challenges through innovative technology.
 
 I thrive on working with data and constantly seek opportunities to enhance my cybersecurity and software engineering skills. As a community-focused developer, I actively contribute to the tech ecosystem as an organizer of Google Developer Group, sharing knowledge and engaging in open-source projects.
 
