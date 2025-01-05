@@ -45,8 +45,8 @@ Go ahead. Let's make this connection more useful.
 ---
 
 ### How to Reach Me
-- 📫 Email: [hrolemberg.tech.engineer@gmail.com](mailto:hrolemberg.tech.engineer@gmail.com)
-- 💼 LinkedIn: [Haniel Rolemberg](https://www.linkedin.com/in/hanielrolemberg/)
+- 📫 Email: [Chutzpah](mailto:hrolemberg.tech.engineer@gmail.com)
+- 💼 LinkedIn: [Chutzpah](https://www.linkedin.com/in/hanielrolemberg/)
   
 ---
 
