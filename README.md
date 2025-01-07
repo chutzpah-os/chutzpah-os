@@ -39,7 +39,7 @@ Go ahead. Let's make this connection more useful.
 
 ### Languages in Use
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hanielrolemberg&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chutzpah-os&layout=compact" alt="Top Languages" />
 </div>
 
 ---
