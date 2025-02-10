@@ -31,7 +31,7 @@ Go ahead. Let's make this connection more useful.
 
 ### Skills & Technologies (using and learning)
 - **Programming Languages**: Python (Flask, Django), JavaScript (React, Node, tailwind CSS, Vue.js, React Native), C. 
-- **Development**: Firebase, Supabase, Heroku, Vercel, GitLab.
+- **Development**: Firebase, Supabase, Heroku, Vercel, Docker, Git, Github, GitLab.
 - **Data Bases**: Sql (Postgresql, Mysql), NoSql(MongoDB). 
 - **Cloud Services**: AWS, GCP.
 - **AI & Data Science**: TensorFlow, Scikit-learn, PyTorch, Keras
