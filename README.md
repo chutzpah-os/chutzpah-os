@@ -29,11 +29,14 @@ Go ahead. Let's make this connection more useful.
 
 ---
 
-### Skills & Technologies
-- **Programming Languages**: Python, JavaScript, C
-- **Development**: Flask, Firebase, React, Node
-- **Cloud Services**: AWS, GCP
-- **AI & Data Science**: TensorFlow
+### Skills & Technologies (using and learning)
+- **Programming Languages**: Python (Flask, Django), JavaScript (React, Node, tailwind CSS, Vue.js, React Native), C. 
+- **Development**: Firebase, Supabase, Heroku, Vercel, GitLab.
+- **Data Bases**: Sql (Postgresql, Mysql), NoSql(MongoDB). 
+- **Cloud Services**: AWS, GCP.
+- **AI & Data Science**: TensorFlow, Scikit-learn, PyTorch, Keras
+- **Data (libraries)**: Numpy, Pandas, Scipy, Plotly, Streamlit, Scrapy, Beautiful Soup.
+- **CyberSecurity**:  Network and Application Security.
 
 ---
 
@@ -51,7 +54,7 @@ Go ahead. Let's make this connection more useful.
 ---
 
 ### Hobbies
-✨ Solving and creating Problems since 2016  
+✨ Solving and Creating Problems since 2016  
 🎲 Hobbies: Endurance, Nautical Culture, Jazz, Blues, Rock, Languages  
 📚 Currently Learning: AI  
 🎯 Focus: AI-Driven Cybersecurity
