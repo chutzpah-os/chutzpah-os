@@ -13,7 +13,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="60" alt="GCP logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60" alt="Docker logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="60" alt="Bash logo" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="60" alt="Firebase logo" />
 </div>
 
 ---
@@ -62,10 +61,10 @@ Feel free to reach out to discuss projects, ideas, or collaborations!
 
 ## Interests & Hobbies
 
-✨ Problem Solver since 2016  
-🎲 Passionate about Endurance Sports, Nautical Culture, Jazz, Blues & Rock Music, and Languages  
-📚 Currently diving deep into AI and Machine Learning  
-🎯 Focused on advancing AI-Driven Cybersecurity solutions
+Problem Solver since 2016  
+Passionate about Endurance Sports, Nautical Culture, Jazz, Blues & Rock Music, and Languages  
+Currently diving deep into AI and Machine Learning  
+Focused on advancing AI-Driven Cybersecurity solutions
 
 ---
 
