@@ -54,7 +54,7 @@ Feel free to reach out to discuss projects, ideas, or collaborations!
 
 ## Get in Touch
 
-- 📧 Email: [hrolemberg.tech.engineer@gmail.com](mailto:hrolemberg.tech.engineer@gmail.com)  
+- 📧 Email: [contact@hanielrolemberg](mailto:contact@hanielrolemberg)  
 - 💼 LinkedIn: [linkedin.com/in/hanielrolemberg](https://www.linkedin.com/in/hanielrolemberg/)
 
 ---
