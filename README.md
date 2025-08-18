@@ -1,7 +1,7 @@
 <h1 align="center">💀 AI-Driven Cybersecurity 💀</h1>
 
 <p align="center">
-  <em>Software Engineer | Cybersecurity Specialist | AI Enthusiast</em>
+  <em>Software & Cybersecurity Engineer | AI Enthusiast</em>
 </p>
 
 <div align="center">
