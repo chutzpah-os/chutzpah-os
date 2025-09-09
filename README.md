@@ -30,8 +30,8 @@ Feel free to reach out to discuss projects, ideas, or collaborations!
 
 ## Skills & Technologies
 
-- **Programming Languages:** Python (Flask, Django), JavaScript (React, Node.js, Vue.js, React Native), TypeScript, C  
-- **Frontend & Styling:** Tailwind CSS  
+- **Programming Languages:** Python (Flask, Django), JavaScript (React, Node.js, Vue.js, React Native), TypeScript, Java, Go, C  
+- **Mobile:** Flutter, Kotlin  
 - **Cloud & DevOps:** AWS, Google Cloud Platform, Docker, Firebase, Supabase, Heroku, Vercel  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
 - **AI & Data Science:** TensorFlow, PyTorch, Keras, Scikit-learn  
