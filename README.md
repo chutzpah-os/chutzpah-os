@@ -30,14 +30,14 @@ Feel free to reach out to discuss projects, ideas, or collaborations!
 
 ## Skills & Technologies
 
-- **Programming Languages:** Python (Flask, Django), JavaScript (React, Node.js, Vue.js, React Native), TypeScript, Java, Go, C  
-- **Mobile:** Flutter, Kotlin  
-- **Cloud & DevOps:** AWS, Google Cloud Platform, Docker, Firebase, Supabase, Heroku, Vercel  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **AI & Data Science:** TensorFlow, PyTorch, Keras, Scikit-learn  
-- **Data Tools & Libraries:** NumPy, Pandas, SciPy, Plotly, Streamlit, Scrapy, Beautiful Soup  
-- **Cybersecurity:** Network Security, Application Security, Secure Coding Practices  
-- **Version Control:** Git, GitHub, GitLab  
+- **Programming Languages:** Python (Flask, FastAPI), JavaScript (ReactJS, NextJS, NodejS,TypeJS ), Java, Go, C.  
+- **Mobile:** Flutter, Kotlin,  React Native.  
+- **Cloud & DevOps:** AWS, Google Cloud Platform, Docker, Firebase, Supabase, Heroku, Vercel.  
+- **Databases:** PostgreSQL, MySQL, MongoDB.  
+- **AI & Data Science:** TensorFlow, PyTorch, Keras, Scikit-learn.  
+- **Data Tools & Libraries:** NumPy, Pandas, SciPy, Plotly, Streamlit, Scrapy, Beautiful Soup.  
+- **Cybersecurity:** Network Security, Application Security, Secure Coding Practices.  
+- **Version Control:** Git, GitHub, GitLab.  
 
 ---
 
