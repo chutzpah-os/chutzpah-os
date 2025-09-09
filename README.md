@@ -30,7 +30,7 @@ Feel free to reach out to discuss projects, ideas, or collaborations!
 
 ## Skills & Technologies
 
-- **Programming Languages:** Python (Flask, FastAPI), JavaScript (ReactJS, NextJS, NodejS,TypeJS ), Java, Go, C.  
+- **Programming Languages:** Python (Flask, FastAPI), JavaScript (ReactJS, NextJS, NodejS,TypeJS ), Java, Go, C, C++.  
 - **Mobile:** Flutter, Kotlin,  React Native.  
 - **Cloud & DevOps:** AWS, Google Cloud Platform, Docker, Firebase, Supabase, Heroku, Vercel.  
 - **Databases:** PostgreSQL, MySQL, MongoDB.  
