@@ -19,10 +19,13 @@
 
 ## About Me
 
-Hi, I’m **Chutzpah** — a passionate Software Engineer with a solid background in cybersecurity and AI-driven solutions.  
-With over **2 years of experience in software development** and **2 years in cybersecurity**, I focus on building secure, scalable, and innovative software to solve real-world challenges.
+Problem Solver with a strong foundation in Cybersecurity (Zero Trust, NIST CSF, AppSec, SIEM/SOAR, Penetration Testing), Machine Learning (MLOps, Computer Vision), and Data Engineering (Apache Spark, Airflow). I thrive on building secure, scalable, and data-driven products that make a real impact.
 
-I enjoy working with data and constantly advancing my skills in cybersecurity, software engineering, and AI. Beyond coding, I actively contribute to the tech community as an organizer of the Google Developer Group and through open-source contributions.
+For more about my technical portfolio: hanielrolemberg.com
+
+Through the Problem Solver Foundation (PSF), I extend this mission — transforming knowledge, collaboration, and technology into instruments for solving real-world challenges and driving systemic impact.
+
+For more about psf: problemsolverfoundation.vercel.app
 
 Feel free to reach out to discuss projects, ideas, or collaborations!
 
