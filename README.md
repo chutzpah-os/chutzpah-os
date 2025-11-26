@@ -23,12 +23,6 @@ Problem Solver with a strong foundation in Cybersecurity (Zero Trust, NIST CSF, 
 
 For more about my technical portfolio: hanielrolemberg.com
 
-Through the Problem Solver Foundation (PSF), I extend this mission — transforming knowledge, collaboration, and technology into instruments for solving real-world challenges and driving systemic impact.
-
-For more about psf: problemsolverfoundation.vercel.app
-
-Feel free to reach out to discuss projects, ideas, or collaborations!
-
 ---
 
 ## Skills & Technologies
