@@ -25,7 +25,7 @@
 Problem Solver with a strong foundation in **Cybersecurity** (Zero Trust, NIST CSF, AppSec, SIEM/SOAR, Penetration Testing), **Machine Learning** (MLOps, Computer Vision), and **Data Engineering** (Apache Spark, Airflow).  
 I thrive on building secure, scalable, and data-driven products that make a real impact.
 
-For more about my technical portfolio: **hanielrolemberg.com**
+
 
 ---
 
@@ -67,7 +67,7 @@ For more about my technical portfolio: **hanielrolemberg.com**
 
 ## Get in Touch
 
-- 📧 Email: [contact@hanielrolemberg](mailto:contact@hanielrolemberg)  
+
 - 💼 LinkedIn: [linkedin.com/in/hanielrolemberg](https://www.linkedin.com/in/hanielrolemberg/)
 
 ---
