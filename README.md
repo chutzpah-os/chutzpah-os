@@ -74,8 +74,6 @@ I thrive on building secure, scalable, and data-driven products that make a real
 
 ## Interests & Hobbies
 
-Problem Solver since 2016  
-Passionate about Endurance Sports, Nautical Culture, Jazz, Blues & Rock Music, and Languages  
 Currently diving deep into **AI, Cybersecurity & Machine Learning**  
 Focused on advancing **AI-Driven Security** solutions
 
