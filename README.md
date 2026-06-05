@@ -1,9 +1,8 @@
 
 
-<p align="center"><strong>Let's connect and create impactful tech solutions together!</strong></p>
 <h1 align="center"> Researcher </h1>
 <p align="center">
-  <em>Software & Cybersecurity Engineer | AI Enthusiast</em>
+  <em>Software, Cybersecurity, Data Engineer | AI Enthusiast</em>
 </p>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="60" alt="C logo" />
@@ -60,7 +59,3 @@ Problem Solver with a strong foundation in **Cybersecurity** (Zero Trust, NIST C
 
 Currently diving deep into **AI, Cybersecurity & Machine Learning**  
 Focused on advancing **AI-Driven Security** solutions
-
----
-
-<p align="center"><strong>Let's connect and create impactful tech solutions together!</strong></p>
