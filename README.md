@@ -29,7 +29,7 @@ Problem Solver with a strong foundation in **Cybersecurity** (Zero Trust, NIST C
 ## Skills & Technologies
 
 - **Programming Languages:**  
-  Python (Flask, FastAPI), JavaScript (ReactJS, NextJS, NodeJS, TypeScript), **Java**, Go, C, C++, **C#**.  
+  Python (Flask, FastAPI), JavaScript (ReactJS, NextJS, NodeJS, TypeScript), **Java**, C, C++.  
 - **Mobile:**  
   Flutter, Kotlin, React Native.  
 - **Cloud & DevOps:**  
